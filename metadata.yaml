@@ -1,0 +1,35 @@
+_repo: The-Inalienable-Heritage-and-other-poems_71914
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sichell, Edith
+    gutenberg_agent_id: '56455'
+    url: http://www.gutenberg.org/2009/agents/56455
+creator:
+  author:
+    agent_name: Lawless, Emily
+    birthdate: 1845
+    deathdate: 1913
+    gutenberg_agent_id: '4132'
+    url: http://www.gutenberg.org/2009/agents/4132
+    wikipedia: https://en.wikipedia.org/wiki/Emily_Lawless
+description: ''
+gutenberg_issued: '2023-10-19'
+identifiers:
+  gutenberg: '71914'
+language: en
+pgterms:marc904: https://archive.org/details/inalienableherit00lawliala/page/n7/mode/2up
+pgterms:marc905: 20220404144515lawlesslit
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aSuffolk :$bPrivately Printed, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Inalienable Heritage and other poems
+url: http://www.gutenberg.org/ebooks/71914
