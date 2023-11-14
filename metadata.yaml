@@ -5,6 +5,9 @@ contributor:
     agent_name: Sichell, Edith
     gutenberg_agent_id: '56455'
     url: http://www.gutenberg.org/2009/agents/56455
+covers:
+- cover_type: archival
+  image_path: 71914-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawless, Emily
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4132
     wikipedia: https://en.wikipedia.org/wiki/Emily_Lawless
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71914#The-Inalienable-Heritage-and-other-poems
 gutenberg_issued: '2023-10-19'
 identifiers:
   gutenberg: '71914'
